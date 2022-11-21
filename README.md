@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ========================
+<br>
 👋 My name is Paul
+<br>
 ========================
 <ul>
 <li>👀 I’m interested in Coding, Designing Stuff and Anime</li>
