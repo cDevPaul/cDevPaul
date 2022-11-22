@@ -9,6 +9,7 @@
 <li>📫 How to reach me: github@devpaul.net</li>
 </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cDevPaul)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcHLffxyEJhfIJW1I3eFDcG23GFecXHEyEaC_vSp3&s" alt="Meme" height="200" width="170">
