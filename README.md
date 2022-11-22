@@ -9,6 +9,7 @@
 <li>📫 How to reach me: github@devpaul.net</li>
 </ul>
 <hr>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cDevPaul &theme=radical)
 
 
