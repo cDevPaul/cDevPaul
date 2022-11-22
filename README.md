@@ -10,7 +10,7 @@
 </ul>
 <hr>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cDevPaul &theme=radical)
+https://github-readme-stats.vercel.app/api?username=cDevPaul
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcHLffxyEJhfIJW1I3eFDcG23GFecXHEyEaC_vSp3&s" alt="Meme" height="200" width="170">
