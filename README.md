@@ -5,7 +5,8 @@
 ========================
 <ul>
 <li>👀 I’m interested in Coding, Designing Stuff and Anime</li>
-<li>🌱 I’m currently learning C# (.Net6), Unity,  HTML, CSS and JS(Angular)</li>
+<li>🌱 I’m currently learning C# (.Net6),  HTML, CSS, Bootstrap</li>
+<li>🏫 I wanna learn: JavaScript, Unity </li>
 <li>📫 How to reach me: github@devpaul.net</li>
 </ul>
 
