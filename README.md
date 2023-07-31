@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-👋 こんにちは私は Paulです。
 ========================
 
 - 👀 I’m interested in Coding, Designing Software UI, UX and Anime</li>
