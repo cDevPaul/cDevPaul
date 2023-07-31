@@ -3,7 +3,7 @@
 👋 こんにちは私は Paulです。
 ========================
 
-- 👀 I’m interested in Coding, Designing Software UI and UX and Anime</li>
+- 👀 I’m interested in Coding, Designing Software UI, UX and Anime</li>
 - 🌱 I’m currently learning JavaScript</li>
 - 🏫 I'd like to learn: React, React Native & Electron</li>
 - 📫 How to reach me: Comming Soon</li>
