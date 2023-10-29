@@ -6,7 +6,7 @@
 - 🏫 I'd like to learn: React, React Native & Electron</li>
 - 📫 How to reach me: Comming Soon</li>
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8PS019)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cDevPaul&theme=black-ice) 
 
