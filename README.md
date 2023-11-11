@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Coding, Designing Software UI, UX and Anime</li>
 - 🌱 I’m currently learning JavaScript</li>
-- 🏫 I'd like to learn: React, React Native & Electron</li>
+- 🏫 I'd like to learn: React, React Native</li>
 - 📫 How to reach me: Comming Soon</li>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8PS019)
