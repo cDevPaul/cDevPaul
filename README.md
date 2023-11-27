@@ -6,8 +6,6 @@
 - 🏫 I'd like to learn: React, React Native</li>
 - 📫 How to reach me: Comming Soon</li>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z8PS019)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cDevPaul&theme=black-ice) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cDevPaul&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
