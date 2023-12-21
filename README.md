@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Coding, Designing Software UI, UX and Anime</li>
 - 🌱 I’m currently learning JavaScript</li>
-- 🏫 I'd like to learn: React, React Native</li>
+- 🏫 I'd like to learn: React, Angular, React Native</li>
 - 📫 How to reach me: Comming Soon</li>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cDevPaul&theme=black-ice) 
