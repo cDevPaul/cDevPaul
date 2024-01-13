@@ -1,7 +1,7 @@
 ### Hi there 👋
 ========================
 
-- 👀 I’m interested in Coding, Designing Software UI, UX and Anime
+- 👀 I’m interested in Coding, Designing Software UI & UX and Anime
 - 🌱 I’m currently learning JavaScript
 - 🏫 I'd like to learn: React, Angular && NodeJS
 - 📫 How to reach me: Comming Soon
