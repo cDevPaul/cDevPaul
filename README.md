@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Coding, Designing Software UI & UX
 - 🌱 I’m currently learning cool tech stuff
-- 🏫 I'd like to learn: Node.js
+- 🏫 I'd like to learn: Node.js, React
 - 📫 How to reach me: Comming Soon
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cDevPaul&theme=black-ice) 
